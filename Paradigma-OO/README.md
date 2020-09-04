@@ -2,7 +2,7 @@
 
 https://digitalinnovation.one
 
-## Modulo: Orientação a Objetos
+## Orientação a Objetos
 
 
 - Paradigma O.O. 
@@ -10,8 +10,7 @@ https://digitalinnovation.one
 - Encapsulamento, Herança e Polimorfismo 
 - This, Super, Equals e HashCode
 
-## [Modulo: Trabalhando com Datas](https://medium.com/responsive-br/java-basico-trabalhando-com-datas-70c4cb75e0f5)
-
+## Trabalhando com Datas
 - Trabalhando com Java Date
 - Trabalhando com Java Calendar
 - O pacote java.text.DateFormat
